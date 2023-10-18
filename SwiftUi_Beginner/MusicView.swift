@@ -10,7 +10,7 @@ import SwiftUI
 struct MusicView: View {
     var body: some View {
         ZStack {
-            Color.blue.ignoresSafeArea()
+            Color.brown.ignoresSafeArea()
             Text("Hello, SwiftUI!")
         }
     }
